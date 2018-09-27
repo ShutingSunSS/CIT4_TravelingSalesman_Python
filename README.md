@@ -1,2 +1,2 @@
 # Traveling-Salesman
-An old project Assignment
+An old assignment
