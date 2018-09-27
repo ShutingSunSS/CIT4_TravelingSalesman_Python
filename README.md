@@ -1,2 +1,2 @@
 # Traveling-Salesman
-An old assignment
+An old assignment, easy but interesing.
